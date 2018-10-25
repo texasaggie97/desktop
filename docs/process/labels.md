@@ -8,11 +8,11 @@ about what each label represents.
 These labels are used for both issues and pull requests, and are assigned to
 help understand the type of work involved.
 
-| Label name | :mag_right: | Description |
-| ---------- | ----------- | ----------- |
-| `docs` | [search](https://github.com/desktop/desktop/labels/docs) | Issues and pull requests related to documentation work on the project |
-| `infrastructure` | [search](https://github.com/desktop/desktop/labels/infrastructure) | Issues and pull requests related to scripts and tooling for GitHub Desktop |
-| `tech-debt` | [search](https://github.com/desktop/desktop/labels/tech-debt) | Issues and pull requests related to addressing technical debt or improving the codebase |
+|  | Label name | Description |
+| ---- | ---------- | ----------- |
+| [:mag_right:][docs] | `docs` | Issues and pull requests related to documentation work on the project |
+| [:mag_right:][infrastructure] | `infrastructure` | Issues and pull requests related to scripts and tooling for GitHub Desktop |
+| [:mag_right:][tech-debt] | `tech-debt` | Issues and pull requests related to addressing technical debt or improving the codebase |
 
 ## Issue-specific labels
 
@@ -91,3 +91,7 @@ time:
 | ---------- | ----------- | ----------- |
 | `ready-for-review` | [search](https://github.com/desktop/desktop/labels/ready-for-review) | Pull Requests that are ready to be reviewed by the maintainers |
 
+
+[docs]: https://github.com/desktop/desktop/labels/docs
+[infrastructure]: https://github.com/desktop/desktop/labels/infrastructure
+[tech-debt]: https://github.com/desktop/desktop/labels/tech-debt
