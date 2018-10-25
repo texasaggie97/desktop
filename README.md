@@ -42,7 +42,7 @@ beta channel to get access to early builds of Desktop:
 
  - [macOS](https://central.github.com/deployments/desktop/desktop/latest/darwin?env=beta)
  - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32?env=beta)
- 
+
 ## Is GitHub Desktop right for me? What are the primary areas of focus?
 
 [This document](https://github.com/desktop/desktop/blob/master/docs/process/what-is-desktop.md) describes the focus of GitHub Desktop and who the product is most useful for.
@@ -74,7 +74,7 @@ The [CONTRIBUTING.md](./.github/CONTRIBUTING.md) document will help you get setu
 familiar with the source. The [documentation](docs/) folder also contains more
 resources relevant to the project.
 
-If you're looking for something to work on, check out the [help wanted](https://github.com/desktop/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22) label.
+If you're looking for something to work on, check out the [help-wanted](https://github.com/desktop/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22help-wanted%22) label.
 
 ## More Resources
 
