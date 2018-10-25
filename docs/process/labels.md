@@ -29,7 +29,7 @@ the flow of an issue through this process
 | -------------------------------------- | ----------------------------| ----------- |
 | [:mag_right:][bug]                     | `bug`                     | Confirmed bugs or reports that are very likely to be bugs |
 | [:mag_right:][enhancement]             | `enhancement`             | |
-| [:mag_right:][investigation-needed]    | `investigation-needed`    | Likely bugs, |
+| [:mag_right:][investigation-needed]    | `investigation-needed`    | Likely bugs, but haven't been reliably reproduced by a reviewer |
 | [:mag_right:][more-information-needed] | `more-information-needed` | The submitter needs to provide more information about the issue |
 | [:mag_right:][priority-1]              | `priority-1`              | Major bug affecting large population and inhibiting their work |
 | [:mag_right:][priority-2]              | `priority-2`              | Bug that affects more than a few users in a meaningful way but doesn't prevent core functions |
@@ -66,7 +66,9 @@ or a specicif subset of users
 | [:mag_right:][codemirror]   | `codemirror`   | Issues related to our use of [CodeMirror](https://codemirror.net/) that may require upstream fixes |
 | [:mag_right:][electron]     | `electron`     | Issues related to our use of [Electron](https://electronjs.org) that may need updates to Electron or upstream fixes |
 | [:mag_right:][integrations] | `integrations` | Issues related to editor and shell integrations that ship in Desktop |
+| [:mag_right:][performance]  | `performance`  | Relating to things affecting performance |
 | [:mag_right:][themes]       | `themes`       | Issues related the light or dark themes that ship in Desktop |
+| [:mag_right:][website]      | `website`      | Issues that relate to external websites and require co-ordination to resolve |
 
 ### Environments
 
@@ -107,6 +109,7 @@ time:
 [meta]: https://github.com/desktop/desktop/labels/meta
 [more-information-needed]: https://github.com/desktop/desktop/labels/more-information-needed
 [needs-design-input]: https://github.com/desktop/desktop/labels/needs-design-input
+[performance]: https://github.com/desktop/desktop/labels/performance
 [priority-1]: https://github.com/desktop/desktop/labels/priority-1
 [priority-2]: https://github.com/desktop/desktop/labels/priority-2
 [priority-3]: https://github.com/desktop/desktop/labels/priority-3
@@ -114,4 +117,5 @@ time:
 [tech-debt]: https://github.com/desktop/desktop/labels/tech-debt
 [themes]: https://github.com/desktop/desktop/labels/themes
 [user-research]: https://github.com/desktop/desktop/labels/user-research
+[website]: https://github.com/desktop/desktop/labels/website
 [windows]: https://github.com/desktop/desktop/labels/windows
